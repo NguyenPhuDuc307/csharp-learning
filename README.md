@@ -2,8 +2,6 @@
 
 Welcome to .NET Interactive and your first C# notebook. C# is an programming language that you can use to make many different types of programs including websites, games, and mobile applications. Let's explore some of the basics of using C# in this notebook and write your first .NET code!
 
-Just click the run icon in a code cell to execute it, or hit the key command.
-
 ## C# Syntax Basics
 
 C# allows you to insert as much space as you would like between commands that you write. You can use tabs or spaces to format your C# code to make it easier for us humans to read. Complete lines of code, or **statements**, need to end with a semicolon so that the C# **compiler** knows that we have completed giving it an instruction.
